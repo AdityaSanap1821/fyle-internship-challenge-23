@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-You can view a live demo of the application [here](#) (Replace '#' with your live demo link).
+You can view a live demo of the application [here](#)(Replace '#' with your live demo link).
 
 ## Screenshots
 
@@ -35,7 +35,7 @@ You will hear back within 48 hours from us via email.
 ### Install requirements
 
 * Install Angular CLI [Ref](https://angular.io/cli)
-* Run `npm install` in this repository 
+* Run `npm install` in this repository
 
 ## Development Server
 
