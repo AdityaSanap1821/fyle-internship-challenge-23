@@ -8,8 +8,7 @@ You can view a live demo of the application [here](https://adityas-fyle-internsh
 
 ![Screenshot 1](./Screenshots/Screenshot%201.png)
 ![Screenshot 2](./Screenshots/Screenshot%202.png)
-Test Case!
-[Screenshot 3](./Screenshots/Screenshot%203.png)
+![Test Case Screenshot](./Screenshots/Screenshot%203.png)
 
 ## Who is this for?
 
